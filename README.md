@@ -20,9 +20,10 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: 
 RegisterNumber:  
 */
+
 ```
 
-## Output:
+### Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 
 

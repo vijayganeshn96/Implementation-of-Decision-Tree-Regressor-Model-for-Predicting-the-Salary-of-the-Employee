@@ -8,10 +8,16 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Start the program
+2. Import pandas and read the csv file.
+3. Print the data head,info(),isnull().
+4. Import labelencoder and fit transform data"position"
+5. Assign a value for x and y.
+6. Import train_test_split.
+7. Import decision treeregressor and predict y value.
+8. Import metrics and calculate mse , then predict data.
+9. Stop the program
+ 
 
 ## Program:
 ```

@@ -48,10 +48,13 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-###datahead:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee]()
-### data 
-![Decision Tree Regressor Model for Predicting the Salary of the Employee]()
-
+#### datahead:
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/data%20head.png)
+#### Transformed data head
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/data%20head%20trans.png)
+#### 
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/data%20info.png)
+#### Predicting x
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/end.png)
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
